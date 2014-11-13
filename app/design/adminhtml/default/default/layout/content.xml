@@ -1,0 +1,13 @@
+<?xml version ="1.0" ?>
+ <layout>
+    <adminhtml_page_index>
+        <reference name = "content">
+            <block type ="ailin_content/adminhtml_page" name = "page"/>
+        </reference>
+    </adminhtml_page_index>
+    <adminhtml_page_edit>
+        <reference name="content">
+            <block type="ailin_content/adminhtml_page_edit" name="page_edit"/>
+        </reference>
+    </adminhtml_page_edit>
+ </layout>

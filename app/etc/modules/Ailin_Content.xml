@@ -1,0 +1,9 @@
+<?xml version ="1.0" ?>
+ <config>
+    <modules>
+        <Ailin_Content>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Ailin_Content>
+    </modules>
+ </config>
